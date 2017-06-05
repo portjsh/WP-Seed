@@ -1,0 +1,4 @@
+[30-May-2017 19:26:37 UTC] wizard_viewed
+[30-May-2017 19:30:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/joshtyle/public_html/wp-seed/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[30-May-2017 19:31:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/joshtyle/public_html/wp-seed/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[31-May-2017 16:14:30 UTC] mojo_plugin_deactivated

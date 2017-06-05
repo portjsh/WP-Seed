@@ -1,0 +1,58 @@
+.hero-wrapper {
+  .owl-carousel {
+    position: relative;
+  }
+  .slide-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    .slide-content {
+      padding: 40px 0;
+      text-align: center;
+    }
+    .slide-icon {
+      height: 50px;
+      width: 50px;
+      margin: 0 auto;
+    }
+  }
+
+  .owl-nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    transform: translateY(-185%);
+    .owl-prev, .owl-next {
+      font-size: 60px;
+    }
+  }
+  .owl-dots {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: -90px;
+    .owl-dot {
+      display: inline-block;
+      position: relative;
+      top: -100px;
+      span {
+        background-color: #d6d6d6;
+        height: 10px;
+        width: 10px;
+        display: inline-block;
+        border-radius: 30px;
+        margin: 5px 7px;
+        transition: all .35s ease-in-out;
+      }
+      &:hover span {
+        background-color: #869791;
+      }
+    }
+  }
+  .active span {
+    background-color: #869791 !important;
+    height: 16px;
+    width: 16px;
+  }
+}

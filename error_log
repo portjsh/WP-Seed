@@ -1,0 +1,144 @@
+[30-May-2017 19:23:06 UTC] mojo_plugin_activated
+[30-May-2017 19:30:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/header.php on line 20
+[30-May-2017 19:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[30-May-2017 19:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[30-May-2017 19:37:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[30-May-2017 19:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[30-May-2017 19:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[30-May-2017 19:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php:20
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(684): require_once()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', true)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(45): locate_template(Array, true)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/home.php(10): get_header()
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/firetoss_seed-josh/header.php on line 20
+[31-May-2017 00:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
+[31-May-2017 16:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
+[31-May-2017 16:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
+[31-May-2017 16:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
+[31-May-2017 16:36:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
+[31-May-2017 16:36:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function firetoss_seed_posted_on() in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php:23
+Stack trace:
+#0 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(686): require()
+#1 /home2/joshtyle/public_html/wp-seed/wp-includes/template.php(643): load_template('/home2/joshtyle...', false)
+#2 /home2/joshtyle/public_html/wp-seed/wp-includes/general-template.php(167): locate_template(Array, true, false)
+#3 /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/home.php(36): get_template_part('template-parts/...', '')
+#4 /home2/joshtyle/public_html/wp-seed/wp-includes/template-loader.php(74): include('/home2/joshtyle...')
+#5 /home2/joshtyle/public_html/wp-seed/wp-blog-header.php(19): require_once('/home2/joshtyle...')
+#6 /home2/joshtyle/public_html/wp-seed/index.php(17): require('/home2/joshtyle...')
+#7 {main}
+  thrown in /home2/joshtyle/public_html/wp-seed/wp-content/themes/seed-josh/template-parts/content.php on line 23
