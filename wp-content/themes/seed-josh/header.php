@@ -29,7 +29,7 @@ $extra_class = get_field('extra_class');
 <?php $code2 = get_field('analytics_code_body', 'option');
 echo $code2 ? "$code2" : "" ; ?>
 <div id="page" class="site <?php echo $extra_class ?>">
-    <a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'firetoss_seed' ); ?></a>
+    <a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'josh_seed' ); ?></a>
 
     <header id="masthead" class="site-header" role="banner">
         <div class="container">

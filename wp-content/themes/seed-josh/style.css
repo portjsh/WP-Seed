@@ -3063,7 +3063,7 @@ a {
     width: calc(100% - 350px); }
     .main-navigation ul {
       display: none;
-      list-style: disc;
+      list-style: none;
       margin: 0;
       padding-left: 0; }
       .main-navigation ul ul {
@@ -3223,7 +3223,7 @@ a {
     width: calc(100% - 350px); }
     .main-navigation ul {
       display: none;
-      list-style: disc;
+      list-style: none;
       margin: 0;
       padding-left: 0; }
       .main-navigation ul ul {

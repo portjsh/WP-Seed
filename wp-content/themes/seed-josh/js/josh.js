@@ -24,13 +24,14 @@
         $('.owl-carousel-content').owlCarousel({
             dots: true,
             autoplay: false,
-            items: 4
+            items: 1
         });
 
         $('.owl-carousel-hero').owlCarousel({
             dots: true,
             autoplay: false,
-            items: 1
+            items: 1,
+            navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"]
         });
 
 
