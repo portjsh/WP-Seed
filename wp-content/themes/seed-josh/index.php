@@ -9,7 +9,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package Firetoss_Theme
+ * @package wp_seed_theme_Theme
  */
 
 get_header(); ?>

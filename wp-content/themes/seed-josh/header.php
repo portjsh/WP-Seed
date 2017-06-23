@@ -6,7 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Firetoss_Theme
+ * @package WP_Seed_Theme
  */
 
 $extra_class = get_field('extra_class');

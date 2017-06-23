@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Firetoss_Theme
+ * @package wp_seed_theme_Theme
  */
 
 if ( ! is_active_sidebar( 'sidebar-1' ) ) {
